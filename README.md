@@ -1,16 +1,38 @@
-# fitrack
+# FiTrack – Fitness Management Mobile App
 
-A new Flutter project.
+FiTrack is a Flutter-based fitness management mobile application designed for admins, trainers, and members to manage workouts, fitness plans, and member activities efficiently.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Role-based access for Admin, Trainer, and Member
+- Responsive Flutter UI design
+- Workout and fitness plan management
+- Member progress tracking
+- Navigation and dashboard workflows
+- Backend API integration
+- User-friendly mobile interface
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- PHP
+- MySQL
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Modules
+
+### Admin
+- Manage members and trainers
+- Monitor activities
+- Control application workflows
+
+### Trainer
+- Create workout plans
+- Track member performance
+- Manage fitness schedules
+
+### Member
+- View workout plans
+- Track fitness progress
+- Access personalized dashboard
+
