@@ -42,7 +42,7 @@ git clone https://github.com/yourusername/fitrack-mobile-app.git
 2. Open the project in -> VS Code or Android Studio
 3. Install dependencies ->
 flutter pub get
-4. Run the application
+4. Run the application ->
 flutter run
 
 ### Future Enhancements
