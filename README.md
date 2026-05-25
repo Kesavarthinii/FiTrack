@@ -38,7 +38,7 @@ FiTrack is a Flutter-based fitness management mobile application designed for ad
 
 ### Installation
 1. Clone the repository
-git clone https://github.com/yourusername/fitrack-mobile-app.git
+git clone https://github.com/yourusername/fiTrack.git
 2. Open the project in -> VS Code or Android Studio
 3. Install dependencies ->
 flutter pub get
