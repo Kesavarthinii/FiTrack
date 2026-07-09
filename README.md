@@ -2,7 +2,7 @@
 
 FiTrack is a Flutter-based fitness management mobile application designed for admins, trainers, and members to manage workouts, fitness plans, and member activities efficiently.
 
-## Feature
+## Features
 
 - Role-based access for Admin, Trainer, and Member
 - Responsive Flutter UI design
